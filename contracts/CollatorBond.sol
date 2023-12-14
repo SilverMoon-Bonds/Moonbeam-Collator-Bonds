@@ -1,7 +1,8 @@
 // SPDX-License-Identifier: CC0-1.0
 
 // Bond contract for rewards share of Collators, node operators, and infrastucture providers.
-//Based on the EIP-3475 Abstract Storage Bond standard
+//Based on the EIP-3475 Abstract Storage Bond standard 
+// Real World Asset Tokenization with compliance
 pragma solidity ^0.8.0;
 
 import "./interfaces/IERC3475.sol";
