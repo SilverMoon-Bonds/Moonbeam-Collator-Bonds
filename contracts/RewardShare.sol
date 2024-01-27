@@ -2,7 +2,7 @@
 pragma solidity ^0.8.9;
 
 //Contract is to ensure that proper share of rewards is sent
-//Bond holders' wallet addresses would be entered payees
+//Bond holders' wallet addresses would be entered as payees
 //Split payment after rewards are sent to Collator account
 
 import "@openzeppelin/contracts/finance/PaymentSplitter.sol";
