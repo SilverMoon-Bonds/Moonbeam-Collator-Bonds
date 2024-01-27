@@ -1,4 +1,4 @@
-SilverMoon is a platform that utilizes decentralized bond tokens (ERC3475) to facilitate fundraising for Moonbeam Collators. 
+SilverMoon is a platform that allows you to issue decentralized bond tokens (ERC3475) to facilitate fundraising for Moonbeam Collators. 
 
 Becoming a Collator: 
 
