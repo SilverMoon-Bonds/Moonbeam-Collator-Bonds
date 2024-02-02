@@ -673,6 +673,7 @@ contract ERC3475 is IERC3475, IERC3475EXTENSION {
 
 }
 
+// Mock boiler-plate ERC3475 contract for collators
 contract SilverBonds is ERC3475 {
 
     address public collator;
