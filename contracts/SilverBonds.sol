@@ -699,7 +699,7 @@ contract SilverBonds is ERC3475 {
         _classes[0]._values["custodianURL"].stringValue = "http://www.moonbonds.xyz/";
         _classes[0]._values["custodianLogo"].stringValue = "http://www.moonbonds.xyz/";
         
-        _classes[1]._values["symbol"].stringValue = "SilverMoon Fundraising Bond Fund";
+        _classes[1]._values["symbol"].stringValue = "SmBOOD";
         _classes[1]._values["category"].stringValue = "Infrastructure";
         _classes[1]._values["subcategory"].stringValue = "bond";
         _classes[1]._values["childCategory"].stringValue = "collator bond";
